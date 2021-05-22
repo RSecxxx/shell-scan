@@ -114,9 +114,9 @@ class ZeroScann():
         / /;:;:;:;:;\_/:;:;:;:;:\ \\ \033[91m
  # ================================== #
  # Shell Scanner                      #
- # Code by PosiX                      #\033[0m
- # Twitter: @posiX                    #
- # http://maqlo-heker.blogspot.com    #
+ # Code by: ®SecxXx.iĐ                #\033[0m
+ # Twitter: Rey Sec                   #
+ # INĐØNESIA SYNĐIÇATE™               #
  # ================================== #
               """
         return info
